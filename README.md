@@ -311,4 +311,4 @@ São 57 testes automatizados (autenticação, categorias, tarefas e CORS). Cada 
 
 ## Autoria
 
-Trabalho desenvolvido por: **[Nome completo — RU]**
+Trabalho desenvolvido por: **[Kauã Dias Martins — RU:5235907]**
